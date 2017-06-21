@@ -12,7 +12,7 @@ ARGS=
 CMDS='fs *
 f~str.
 '
-EXPECT='0x004005f4 25 str.Hello_World
+EXPECT='0x004005c4 12 str.Hello_World
 '
 
 run_test
